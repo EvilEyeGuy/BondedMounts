@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BM_OwnMount>Reittier: {0}</BM_OwnMount>
+  <BM_OwnMountDesc>{0} ist diesem Kolonisten zugewiesen. Klicken wählt das Tier aus.</BM_OwnMountDesc>
+  <BM_RiderIs>Reiter: {0}</BM_RiderIs>
+  <BM_AssignRider>Reiter zuweisen</BM_AssignRider>
+  <BM_AssignRiderDesc>Wähle den einzigen Kolonisten, der {0} reiten darf. Der Reiter nutzt das Tier bei der täglichen Arbeit und steigt nur ab, wenn er ein Gebäude betritt. Solange er drinnen ist, wartet das Tier an einem Anbindepfahl.</BM_AssignRiderDesc>
+  <BM_Nobody>Niemand</BM_Nobody>
+  <BM_RiderOption>{0} (reitet jetzt {1})</BM_RiderOption>
+  <BM_SettingsCategory>Bonded Mounts</BM_SettingsCategory>
+  <BM_MinDistance>Aufsitzen ab {0} Feldern Entfernung</BM_MinDistance>
+  <BM_MinDistanceTip>Ein Reiter steigt nur auf sein Tier, wenn das Arbeitsziel mindestens so weit entfernt ist. Kürzere Wege geht er zu Fuß.</BM_MinDistanceTip>
+</LanguageData>

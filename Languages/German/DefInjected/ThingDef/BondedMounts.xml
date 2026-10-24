@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BM_HitchingPost.label>Anbindepfahl</BM_HitchingPost.label>
+  <BM_HitchingPost.description>Ein Pfahl zum Anbinden von Reittieren. Steigt ein Reiter mit zugewiesenem Tier ab, um ein Gebäude zu betreten, geht das Tier zum nächsten freien Pfahl und wartet dort, bis der Reiter zurückkommt. An einen Pfahl passen bis zu vier Tiere. Dient auch als Karawanen-Anbindeplatz.</BM_HitchingPost.description>
+</LanguageData>

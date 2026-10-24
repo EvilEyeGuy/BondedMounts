@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BM_OwnMount>Mount: {0}</BM_OwnMount>
+  <BM_OwnMountDesc>{0} is assigned to this colonist. Click to select it.</BM_OwnMountDesc>
+  <BM_RiderIs>Rider: {0}</BM_RiderIs>
+  <BM_AssignRider>Assign rider</BM_AssignRider>
+  <BM_AssignRiderDesc>Choose the only colonist allowed to ride {0}. The rider uses it for everyday work and only dismounts to enter a building. While the rider is inside, the mount waits at a hitching post.</BM_AssignRiderDesc>
+  <BM_Nobody>Nobody</BM_Nobody>
+  <BM_RiderOption>{0} (now rides {1})</BM_RiderOption>
+  <BM_SettingsCategory>Bonded Mounts</BM_SettingsCategory>
+  <BM_MinDistance>Mount up from a distance of {0} cells</BM_MinDistance>
+  <BM_MinDistanceTip>A rider only mounts the assigned animal when the work target is at least this far away. Shorter trips are walked.</BM_MinDistanceTip>
+</LanguageData>
