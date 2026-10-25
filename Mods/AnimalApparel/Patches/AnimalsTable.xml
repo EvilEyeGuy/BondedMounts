@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationInsert">
+    <xpath>Defs/PawnTableDef[defName="Animals"]/columns/li[text()="Master"]</xpath>
+    <value>
+      <li>BM_AnimalLoadout</li>
+    </value>
+    <order>Append</order>
+  </Operation>
+</Patch>

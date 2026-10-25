@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <JobDef>
+    <defName>BM_FitHarness</defName>
+    <driverClass>BondedMounts.JobDriver_FitHarness</driverClass>
+    <reportString>fitting a pack harness on TargetB.</reportString>
+  </JobDef>
+</Defs>

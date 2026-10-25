@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BM_LoadoutNone>Keine</BM_LoadoutNone>
+  <BM_LoadoutEdit>Vorgaben bearbeiten …</BM_LoadoutEdit>
+  <BM_LoadoutsTitle>Ausrüstungsvorgaben für Tiere</BM_LoadoutsTitle>
+  <BM_LoadoutNew>Neue Vorgabe</BM_LoadoutNew>
+  <BM_LoadoutDelete>Löschen</BM_LoadoutDelete>
+  <BM_LoadoutName>Name</BM_LoadoutName>
+  <BM_LoadoutItems>Gegenstände</BM_LoadoutItems>
+  <BM_LoadoutAdd>Gegenstand hinzufügen …</BM_LoadoutAdd>
+  <BM_LoadoutAssigned>Von {0} Tier(en) verwendet.</BM_LoadoutAssigned>
+  <BM_LoadoutHint>Ein Kolonist mit Tierpflege holt fehlende Gegenstände aus dem Lager, zieht sie den Tieren an und nimmt alles ab, was nicht in der Vorgabe steht. Gegenstände, die ein Tier nicht tragen kann, werden übersprungen. Tiere ohne Vorgabe bleiben unberührt.</BM_LoadoutHint>
+  <BM_LoadoutDefaultName>Vorgabe {0}</BM_LoadoutDefaultName>
+  <BM_LoadoutEmpty>Noch keine Vorgaben.</BM_LoadoutEmpty>
+  <BM_LoadoutNoItems>Noch keine Gegenstände.</BM_LoadoutNoItems>
+  <BM_PickApparel>Tierausrüstung wählen</BM_PickApparel>
+  <BM_OnlyFor>nur {0}</BM_OnlyFor>
+  <BM_Close>Schließen</BM_Close>
+  <BM_LoadoutColumnTip>Ausrüstungsvorgabe für dieses Tier. Kolonisten mit Tierpflege ziehen es entsprechend an.</BM_LoadoutColumnTip>
+</LanguageData>

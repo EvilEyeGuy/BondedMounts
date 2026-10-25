@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BM_LoadoutNone>None</BM_LoadoutNone>
+  <BM_LoadoutEdit>Edit gear sets …</BM_LoadoutEdit>
+  <BM_LoadoutsTitle>Gear sets for animals</BM_LoadoutsTitle>
+  <BM_LoadoutNew>New set</BM_LoadoutNew>
+  <BM_LoadoutDelete>Delete</BM_LoadoutDelete>
+  <BM_LoadoutName>Name</BM_LoadoutName>
+  <BM_LoadoutItems>Items</BM_LoadoutItems>
+  <BM_LoadoutAdd>Add item …</BM_LoadoutAdd>
+  <BM_LoadoutAssigned>Used by {0} animal(s).</BM_LoadoutAssigned>
+  <BM_LoadoutHint>A colonist with the Handling work type fetches missing items from storage, puts them on the animals and takes off everything that is not part of the set. Items an animal cannot wear are skipped. Animals without a set are left alone.</BM_LoadoutHint>
+  <BM_LoadoutDefaultName>Gear set {0}</BM_LoadoutDefaultName>
+  <BM_LoadoutEmpty>No gear sets yet.</BM_LoadoutEmpty>
+  <BM_LoadoutNoItems>No items yet.</BM_LoadoutNoItems>
+  <BM_PickApparel>Choose animal gear</BM_PickApparel>
+  <BM_OnlyFor>only {0}</BM_OnlyFor>
+  <BM_Close>Close</BM_Close>
+  <BM_LoadoutColumnTip>Gear set for this animal. Colonists with Handling dress the animal accordingly.</BM_LoadoutColumnTip>
+</LanguageData>

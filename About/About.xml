@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <packageId>EvilEyeGuy.BondedMounts</packageId>
-  <name>Bonded Mounts</name>
+  <name>Giddy-Up 2: Bonded Mounts</name>
   <author>EvilEyeGuy</author>
   <supportedVersions>
     <li>1.7</li>
@@ -32,5 +32,17 @@ Assigned mounts
 
 Hitching post
 - When the rider dismounts to go inside, the mount walks to the nearest free hitching post and waits there.
-- Up to four mounts per post. The post also works as a caravan hitching spot.</description>
+- The rider rides to the post closest to the destination, ties the mount there and walks the rest.
+- Up to four mounts per post. The post also works as a caravan hitching spot.
+- When a tied or ridden mount gets hungry, its rider brings it food.
+
+Pack harness (only with True RPG Hauling active)
+- Crafted from leather or cloth. Fit it on a mount with the button on the animal.
+- Shows the pack graphic the animal already has. Animals that are not pack animals can carry loads with it.
+- A mounted rider fills the harness first, then the own inventory, and unloads from the saddle. If the mount waits at a post, the rider walks over and takes the goods from it.
+- With Animal Apparel Framework the harness is animal apparel and takes the place of armor, so a mount wears either armor or a harness.
+
+Gear sets (only with Animal Apparel Framework)
+- A Gear column in the Animals tab: create named gear sets, for example war horse or pack horse, and assign them to animals.
+- Colonists with the Handling work type fetch missing items, put them on the animals and take off everything that is not part of the set.</description>
 </ModMetaData>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>BM_PackHarness</defName>
+    <label>pack harness</label>
+    <description>Saddlebags and straps for a mount. A mount wearing it carries goods for its assigned rider: when the rider hauls while mounted, the bags are filled first. Animals that are not pack animals can carry loads once harnessed. Takes the place of animal armor.</description>
+    <graphicData>
+      <texPath>Things/Pawn/Animal/Muffalo/MuffaloPack</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+    <techLevel>Neolithic</techLevel>
+    <thingCategories>
+      <li>Animal_Apparel</li>
+    </thingCategories>
+    <stuffCategories>
+      <li>Leathery</li>
+      <li>Fabric</li>
+    </stuffCategories>
+    <costStuffCount>50</costStuffCount>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Mass>3</Mass>
+      <WorkToMake>2500</WorkToMake>
+      <Flammability>1</Flammability>
+      <EquipDelay>3</EquipDelay>
+      <StuffEffectMultiplierArmor>0</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0</StuffEffectMultiplierInsulation_Heat>
+    </statBases>
+    <recipeMaker>
+      <unfinishedThingDef>UnfinishedApparel</unfinishedThingDef>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Tailor</effectWorking>
+      <soundWorking>Recipe_Tailor</soundWorking>
+      <recipeUsers Inherit="False">
+        <li>CraftingSpot</li>
+        <li>HandTailoringBench</li>
+        <li>ElectricTailoringBench</li>
+      </recipeUsers>
+      <skillRequirements>
+        <Crafting>3</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <apparel>
+      <careIfWornByCorpse>false</careIfWornByCorpse>
+      <careIfDamaged>false</careIfDamaged>
+      <canBeDesiredForIdeo>false</canBeDesiredForIdeo>
+      <bodyPartGroups>
+        <li>AnimalBody</li>
+        <li>AnimalLegs</li>
+        <li>AnimalHead</li>
+      </bodyPartGroups>
+      <layers>
+        <li>OnSkin</li>
+        <li>Middle</li>
+        <li>Shell</li>
+      </layers>
+      <tags>
+        <li>AnimalOnly</li>
+        <li>AnimalInvisible</li>
+      </tags>
+    </apparel>
+    <generateAllowChance>0</generateAllowChance>
+  </ThingDef>
+</Defs>

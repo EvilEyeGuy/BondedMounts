@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BM_FitHarness>Packgeschirr anlegen</BM_FitHarness>
+  <BM_FitHarnessDesc>Wähle einen Kolonisten, der {0} ein Packgeschirr anlegt. Mit Geschirr trägt das Tier beim Schleppen Waren für seinen Reiter.</BM_FitHarnessDesc>
+  <BM_FitBy>Anlegen durch {0}</BM_FitBy>
+  <BM_NoHarness>kein Packgeschirr verfügbar</BM_NoHarness>
+  <BM_RemoveHarness>Packgeschirr abnehmen</BM_RemoveHarness>
+  <BM_RemoveHarnessDesc>Nimmt {0} das Packgeschirr ab. Es landet neben dem Tier.</BM_RemoveHarnessDesc>
+  <BM_TabCargo>Reittier</BM_TabCargo>
+  <BM_CargoMass>{0} / {1} kg</BM_CargoMass>
+  <BM_CargoEmpty>Das Packgeschirr ist leer.</BM_CargoEmpty>
+</LanguageData>

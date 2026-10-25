@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BM_FitHarness>Fit pack harness</BM_FitHarness>
+  <BM_FitHarnessDesc>Choose a colonist to fit a pack harness on {0}. With a harness, the mount carries goods for its rider while hauling.</BM_FitHarnessDesc>
+  <BM_FitBy>Fit by {0}</BM_FitBy>
+  <BM_NoHarness>no pack harness available</BM_NoHarness>
+  <BM_RemoveHarness>Remove pack harness</BM_RemoveHarness>
+  <BM_RemoveHarnessDesc>Take the pack harness off {0}. It is dropped next to the animal.</BM_RemoveHarnessDesc>
+  <BM_TabCargo>Mount</BM_TabCargo>
+  <BM_CargoMass>{0} / {1} kg</BM_CargoMass>
+  <BM_CargoEmpty>The pack harness is empty.</BM_CargoEmpty>
+</LanguageData>

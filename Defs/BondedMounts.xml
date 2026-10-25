@@ -41,4 +41,10 @@
     <reportString>going to the hitching post.</reportString>
     <casualInterruptible>false</casualInterruptible>
   </JobDef>
+
+  <JobDef>
+    <defName>BM_FeedMount</defName>
+    <driverClass>BondedMounts.JobDriver_FeedMount</driverClass>
+    <reportString>feeding TargetB.</reportString>
+  </JobDef>
 </Defs>

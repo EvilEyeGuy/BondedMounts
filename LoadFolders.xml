@@ -3,5 +3,9 @@
   <v1.7>
     <li>/</li>
     <li>1.7</li>
+    <li IfModActive="EvilEyeGuy.RPGInventoryHauling">Mods/TrueRPGHauling</li>
+    <li IfModActive="EvilEyeGuy.RPGInventoryHauling" IfModNotActive="Ingendum.AnimalApparelFramework">Mods/TrueRPGHauling_Item</li>
+    <li IfModActiveAll="EvilEyeGuy.RPGInventoryHauling,Ingendum.AnimalApparelFramework">Mods/TrueRPGHauling_AAF</li>
+    <li IfModActive="Ingendum.AnimalApparelFramework">Mods/AnimalApparel</li>
   </v1.7>
 </loadFolders>

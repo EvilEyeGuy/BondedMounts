@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <PawnColumnDef>
+    <defName>BM_AnimalLoadout</defName>
+    <label>gear</label>
+    <workerClass>BondedMounts.PawnColumnWorker_AnimalLoadout</workerClass>
+    <sortable>true</sortable>
+  </PawnColumnDef>
+
+  <WorkGiverDef>
+    <defName>BM_DressAnimal</defName>
+    <label>dress animals</label>
+    <giverClass>BondedMounts.WorkGiver_DressAnimal</giverClass>
+    <workType>Handling</workType>
+    <verb>dress</verb>
+    <gerund>dressing</gerund>
+    <priorityInType>40</priorityInType>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+
+  <JobDef>
+    <defName>BM_UndressAnimal</defName>
+    <driverClass>BondedMounts.JobDriver_UndressAnimal</driverClass>
+    <reportString>taking gear off TargetA.</reportString>
+  </JobDef>
+</Defs>
