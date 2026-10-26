@@ -5,6 +5,10 @@
   <BM_RiderIs>Reiter: {0}</BM_RiderIs>
   <BM_AssignRider>Reiter zuweisen</BM_AssignRider>
   <BM_AssignRiderDesc>Wähle den einzigen Kolonisten, der {0} reiten darf. Der Reiter nutzt das Tier bei der täglichen Arbeit und steigt nur ab, wenn er ein Gebäude betritt. Solange er drinnen ist, wartet das Tier an einem Anbindepfahl.</BM_AssignRiderDesc>
+  <BM_NotGrown>{0} ist noch nicht ausgewachsen.</BM_NotGrown>
+  <BM_RidingForbiddenReason>Reiten ist für {0} verboten.</BM_RidingForbiddenReason>
+  <BM_AllowRiding>Reiten erlaubt</BM_AllowRiding>
+  <BM_AllowRidingDesc>Ausschalten verbietet das Reiten von {0}, auch wenn die Tierart reitbar ist. Ein zugewiesener Reiter wird entfernt, wer gerade reitet, steigt ab.</BM_AllowRidingDesc>
   <BM_Nobody>Niemand</BM_Nobody>
   <BM_RiderOption>{0} (reitet jetzt {1})</BM_RiderOption>
   <BM_SettingsCategory>Giddy-Up 2: Bonded Mounts</BM_SettingsCategory>

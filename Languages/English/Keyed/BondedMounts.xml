@@ -5,6 +5,10 @@
   <BM_RiderIs>Rider: {0}</BM_RiderIs>
   <BM_AssignRider>Assign rider</BM_AssignRider>
   <BM_AssignRiderDesc>Choose the only colonist allowed to ride {0}. The rider uses it for everyday work and only dismounts to enter a building. While the rider is inside, the mount waits at a hitching post.</BM_AssignRiderDesc>
+  <BM_NotGrown>{0} is not fully grown yet.</BM_NotGrown>
+  <BM_RidingForbiddenReason>Riding {0} is forbidden.</BM_RidingForbiddenReason>
+  <BM_AllowRiding>Riding allowed</BM_AllowRiding>
+  <BM_AllowRidingDesc>Turn off to forbid riding {0}, even if its species is rideable. An assigned rider is removed, anyone riding it dismounts.</BM_AllowRidingDesc>
   <BM_Nobody>Nobody</BM_Nobody>
   <BM_RiderOption>{0} (now rides {1})</BM_RiderOption>
   <BM_SettingsCategory>Giddy-Up 2: Bonded Mounts</BM_SettingsCategory>
